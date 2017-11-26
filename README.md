@@ -12,11 +12,13 @@ E-mail: vagner.gnu@gmail.com
 
 Exemplos de Matriz no arquivo .txt para ser analisado no algoritmo.
 
+Matriz 3x3
+
 0 1 1
 1 0 0
 1 0 0
 
-ou
+ou Matriz 5x5
 
 0 1 1 0 0
 1 0 1 0 1
